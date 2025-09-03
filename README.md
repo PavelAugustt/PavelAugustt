@@ -1,5 +1,7 @@
 
-I'm an ML systems and performance engineer in training, currently focused on CUDA and machine learning performance. I'm working through an ML internship and am especially interested in low-level development. My background spans full-stack applications, game development, and computation-heavy tools, so I'm open to a wide range of roles as a generalist. If you have any contract opportunities or offers, feel free to email me at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
+I'm an ML systems and software engineer, currently focused on ml performance on constrained hardware and particularly computer vision. I'm currently a full time swe and have one ml internship on my belt, although I'm employed I'm looking to switch. I'm especially interested in infra and systems but I'm open to working on most things. I've worked on full stack, ml, mobile app game dev and pretty much everything under the sun but I'm specializing in systems dev. 
+
+If you got a gig feel free to email me at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
 
 Tools I've worked with:
 
