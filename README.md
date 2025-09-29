@@ -12,24 +12,23 @@ Tools I've worked with:
     Game Development: Unity, C#
 
     Full Stack: JavaScript, Node.js, React, Next.js, Angular, and others
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bozo10n&show_icons=true&theme=radical&hide_title=true&hide_rank=true&custom_title=Stats&card_width=400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozo10n&layout=compact&theme=radical&card_width=400" />
 </p>
 
----
 
-## Projects worth checking out
+## Main Portfolio Pieces:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[CommitCloud](https://github.com/VileTBird/CommitCloud)** | A free infinite file storage hack that uses GitHub commits as storage. | Python |
-| **[Ball-thullu](https://github.com/VileTBird/Ball-thullu)** | A survival horror game with swarm based boss, built using the flocking algo. (POC for a full commercial version in the works) | Unity, Blender |
-| **[RawTorch](https://github.com/VileTBird/RawTorch)** | A CUDA-backed computation lib for Python. (WIP) | C++, CUDA, Python |
-| **[VHub-Server](https://github.com/VileTBird/VHub-Server)** | Version control system with switchable backends (Obj+Graph, Fs+SQL, Delta+Graph). | Python, React |
-| **[Portfolio](https://github.com/VileTBird/Portfolio)** | A personal portfolio site with blog support and user auth. | Handlebars, Node js, Express |
-| **[CUDA-C](https://github.com/VileTBird/CUDA-C)** | Scripts + notes from my CUDA + low-level deep dive. | CUDA C |
+| **[ProtoWeb](https://github.com/bozo10n/ProtoData.git)** | A research project that involved dataset creation and structuring custom dbs(graph & sql) of websites from 90s.. | ProtoData |
+| **[CommitCloud](https://github.com/bozo10n/CommitCloud)** | A free infinite file storage hack that uses GitHub commits as storage. | Python |
+| **[Ball-thullu](https://github.com/bozo10n/Ball-thullu)** | A survival horror game with swarm based boss, built using the flocking algo. (POC for a full commercial version in the works) | Unity, Blender |
+| **[RawTorch](https://github.com/bozo10n/RawTorch)** | A CUDA-backed computation lib for Python. (WIP) | C++, CUDA, Python |
+| **[VHub-Server](https://github.com/bozo10n/VHub-Server)** | Version control system with switchable backends (Obj+Graph, Fs+SQL, Delta+Graph). | Python, React |
+| **[Portfolio](https://github.com/bozo10n/Portfolio)** | A personal portfolio site with blog support and user auth. | Handlebars, Node js, Express |
+
 
 ---
