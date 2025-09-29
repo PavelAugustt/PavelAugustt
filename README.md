@@ -23,7 +23,7 @@ Tools I've worked with:
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **[ProtoWeb](https://github.com/bozo10n/ProtoData.git)** | A research project that involved dataset creation and structuring custom dbs(graph & sql) of websites from 90s.. | ProtoData |
+| **[ProtoData](https://github.com/bozo10n/ProtoData.git)** | A research project that involved dataset creation and structuring custom dbs(graph & sql) of websites from 90s.. | BeautifulSoup, Python, Selenium, Neo4j |
 | **[CommitCloud](https://github.com/bozo10n/CommitCloud)** | A free infinite file storage hack that uses GitHub commits as storage. | Python |
 | **[Ball-thullu](https://github.com/bozo10n/Ball-thullu)** | A survival horror game with swarm based boss, built using the flocking algo. (POC for a full commercial version in the works) | Unity, Blender |
 | **[RawTorch](https://github.com/bozo10n/RawTorch)** | A CUDA-backed computation lib for Python. (WIP) | C++, CUDA, Python |
