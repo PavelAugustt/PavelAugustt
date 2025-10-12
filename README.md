@@ -1,9 +1,9 @@
 
-I'm an ML systems and software engineer, currently focused on ml performance on constrained hardware and particularly computer vision. I'm currently a full time swe and have one ml internship on my belt, although I'm employed I'm looking to switch. I'm especially interested in infra and systems but I'm open to working on most things. I've worked on full stack, ml, mobile app game dev and pretty much everything under the sun but I'm specializing in systems dev. 
+I'm an ML systems and software engineer, currently interested in ml performance on constrained hardware. I'm currently a full time swe with one ml internship under my belt, although I'm employed I am looking to switch to something long term. I'm specalizing in infra and systems but I'm open to working on most things. I've worked on full stack, ml, data engineering, mobile app, game dev and pretty much everything under the sun.
 
 If you got a gig feel free to email me at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
 
-Tools I've worked with:
+Tools I'm confident with:
 
     ML Performance: CUDA-C
 
