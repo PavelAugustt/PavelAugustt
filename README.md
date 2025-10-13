@@ -1,5 +1,5 @@
 
-I'm an ML systems and software engineer, currently interested in ml performance on constrained hardware. I'm currently a full time swe with one ml internship under my belt, although I'm employed I am looking to switch to something long term. I'm specalizing in infra and systems but I'm open to working on most things. I've worked on full stack, ml, data engineering, mobile app, game dev and pretty much everything under the sun.
+I'm an ML systems and software engineer, currently focused on ML performance for constrained hardware. I'm a full-time SWE with ML internship experience seeking a long-term role. I specialize in infrastructure and systems engineering, with experience spanning the full stack from low-level optimization to application development including ML, data engineering, mobile app, and game dev.
 
 If you got a gig feel free to email me at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
 
