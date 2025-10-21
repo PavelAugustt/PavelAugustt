@@ -3,22 +3,6 @@ I'm an ML systems and software engineer, currently focused on ML performance for
 
 If you got a gig feel free to email me at **asuraspru@gmail.com** or DM me on Twitter:  <a href="https://twitter.com/bozo10n" target="_blank">@bozo10n</a>
 
-Tools I'm confident with:
-
-    ML Performance: CUDA-C
-
-    Machine Learning: PyTorch, Scikit-learn, TensorFlow, Pandas, SQL etc
-
-    Game Development: Unity, C#
-
-    Full Stack: JavaScript, Node.js, React, Next.js, Angular, and others
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bozo10n&show_icons=true&theme=radical&hide_title=true&hide_rank=true&custom_title=Stats&card_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bozo10n&layout=compact&theme=radical&card_width=400" />
-</p>
-
-
 ## Main Portfolio Pieces:
 
 | Project | Description | Stack |
