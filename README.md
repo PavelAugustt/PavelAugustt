@@ -1,5 +1,5 @@
 
-I'm an ML systems and software engineer, currently focused on ML performance for constrained hardware. I'm a full-time SWE with ML internship experience seeking a long-term role. I specialize in infrastructure and systems engineering, with experience spanning the full stack from low-level optimization to application development including ML, data engineering, mobile app, and game dev.
+I'm an ML systems and software engineer, currently focused on ml software and infra tooling. I'm an employed full stack SWE with ML internship experience seeking a long-term role. I specialize in infrastructure and systems engineering, with experience spanning the full stack from low-level optimization to application development including ML, data engineering, mobile app, and game dev.
 
 I am interested in, immediate full-time/part-time contracts, 2026 new grad positions or april 2026 internships/co-ops. If you got a gig feel free to email me at **srahulu@lakeheadu.ca** 
 
